@@ -1,0 +1,10 @@
+---
+
+# requirements.txt
+
+```txt
+gradio>=4.0.0
+yake>=0.4.8
+requests>=2.31.0
+torch>=2.0.0
+transformers>=4.35.0
