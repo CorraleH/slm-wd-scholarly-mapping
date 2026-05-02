@@ -10,6 +10,7 @@ A prototype to introduce students and academics to Wikidata. It offers an end-to
 - Fetches abstracts from OpenAlex or Semantic Scholar
 - Uses a Small Language Model (SLM) to synthesize answers
 - Verifies the answer for accuracy and citations
+- Multilingual (en, pt, es, fr, de, it, nl)
 
 ## Tech Stack
 
