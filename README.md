@@ -31,6 +31,3 @@ A prototype to introduce students and academics to Wikidata. It offers an end-to
 
 ```bash
 python app.py
-
-```bash
-python app.py
