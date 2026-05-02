@@ -1,2 +1,36 @@
-# slm-wd-scholarly-mapping
-This app uses a Qwen SLM to answer multilingual questions using Wikidata. It retrieves scholarly articles, fetches abstracts from OpenAlex/Semantic Scholar, and synthesizes verified, cited answers using a two-step generate-and-verify pipeline.
+# SLM-Wikidata-Scholarly-Mapping
+
+A prototype to introduce students and academics to Wikidata. It offers an end-to-end open solution for answering questions based on scientific articles.
+
+## What It Does
+
+- Takes a question from the user
+- Finds related entities on Wikidata
+- Searches for scholarly articles
+- Fetches abstracts from OpenAlex or Semantic Scholar
+- Uses a Small Language Model (SLM) to synthesize answers
+- Verifies the answer for accuracy and citations
+
+## Tech Stack
+
+- Python
+- Gradio (UI)
+- Transformers (Qwen2.5-3B-Instruct)
+- YAKE (keyword extraction)
+- Wikidata API
+- OpenAlex API
+- Semantic Scholar API
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies
+3. Run the app
+
+## Usage
+
+```bash
+python app.py
+
+```bash
+python app.py
