@@ -1,6 +1,7 @@
 # SLM-Wikidata-Scholarly-Mapping
 
 A prototype to introduce students and academics to Wikidata. It offers an end-to-end open solution for answering questions based on scientific articles.
+Slides available on Wikimedia Commons: https://w.wiki/Mpmq
 
 ## What It Does
 
